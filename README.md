@@ -1,4 +1,4 @@
-# Comparing-some-boosting-and-bagging-models-for-(1)Continous,-(2)Binary-and-(3)Multicategory-responses:-using-the-students-performance-data
+# Comparing some boosting and bagging models for (1) Continous, (2) Binary and (3) Multicategory responses: using the students performance data
 ## Students performance data
 
 This dataset contains the examination scores of 1,000 students in three subjects: mathematics, reading, and writing. In addition to the test scores, it includes several demographic and socioeconomic variables, such as gender, race/ethnicity, parental level of education, lunch type, and participation in a test preparation course. The primary aim of the dataset is to investigate how factors such as family background, parental education, and test preparation influence student academic performance.
